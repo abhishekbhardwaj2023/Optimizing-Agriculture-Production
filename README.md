@@ -1,0 +1,2 @@
+# Optimizing-Agriculture-Production
+Agriculture is the art and science of cultivating the soil, growing crops and raising livestock. We are analyzing these conditions and form clusters of crops which will help us understand which  group of crops require similar kinds of conditions to grow.  We will be using K means clustering for this and farm clusters. Then after we analyze the different climatic conditions required for different crops, we will perform  multiclass classification and will predict which crop can be grown with given climatic conditions.
